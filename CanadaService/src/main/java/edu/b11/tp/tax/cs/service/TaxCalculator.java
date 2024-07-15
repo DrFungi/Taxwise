@@ -9,7 +9,7 @@ import java.util.List;
 public class TaxCalculator {
     private ITaxBracketDAO taxBracketDao;
 
-     public TaxCalculator(ITaxBracketDAO taxBracketDao) {
+    public TaxCalculator(ITaxBracketDAO taxBracketDao) {
          this.taxBracketDao = taxBracketDao;
      }
 
