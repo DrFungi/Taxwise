@@ -1,8 +1,8 @@
-package edu.b11.tp.tax.cs.persistence;
+package edu.b11.tp.tax.qs.persistence;
 
 
-import edu.b11.tp.tax.cs.model.TaxAuthority;
-import edu.b11.tp.tax.cs.model.TaxBracket;
+import edu.b11.tp.tax.qs.model.TaxAuthority;
+import edu.b11.tp.tax.qs.model.TaxBracket;
 
 import java.util.List;
 

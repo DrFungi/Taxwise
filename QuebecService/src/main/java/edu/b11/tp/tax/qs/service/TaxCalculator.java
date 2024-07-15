@@ -1,15 +1,15 @@
-package edu.b11.tp.tax.cs.service;
+package edu.b11.tp.tax.qs.service;
 
-import edu.b11.tp.tax.cs.persistence.ITaxBracketDAO;
-import edu.b11.tp.tax.cs.model.TaxBracket;
-import edu.b11.tp.tax.cs.model.TaxAuthority;
+import edu.b11.tp.tax.qs.persistence.ITaxBracketDAO;
+import edu.b11.tp.tax.qs.model.TaxBracket;
+import edu.b11.tp.tax.qs.model.TaxAuthority;
 
 import java.util.List;
 
 public class TaxCalculator {
     private ITaxBracketDAO taxBracketDao;
 
-     public TaxCalculator(ITaxBracketDAO taxBracketDao) {
+    public TaxCalculator(ITaxBracketDAO taxBracketDao) {
          this.taxBracketDao = taxBracketDao;
      }
 
