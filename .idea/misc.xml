@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/CanadaService/pom.xml" />
         <option value="$PROJECT_DIR$/QuebecService/pom.xml" />
+        <option value="$PROJECT_DIR$/WebTaxFront/pom.xml" />
       </list>
     </option>
   </component>
